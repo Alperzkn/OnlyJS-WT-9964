@@ -1,0 +1,11 @@
+@import url(https://db.onlinewebfonts.com/c/1868e326d3ee28e5395f6efa2bc037bf?family=Eina01-Regular);
+
+.customNav {
+    height: 115px;
+    font-family: Eina01-Regular;
+    justify-content: right;
+}
+
+.navdownloadbutton {
+    float: right;
+}
